@@ -1,0 +1,195 @@
+
+/*@import url(http://fonts.googleapis.com/css?family=Overlock+SC);*/
+
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/*===============================*/
+/* Body:
+/*===============================*/
+
+body {
+  min-height: 2000px;
+  padding-top: 4.0%;
+  background:#0D3B5A;
+color:white;
+margin:15px;
+}
+
+.mytop {
+/*  background-image: url("../img/header.png"); */
+ height:110px;
+ background-repeat: no-repeat;
+  background-color: #3E6E8C;
+ }
+ 
+.intro-section {
+  height: 100%;
+  padding-top: 100px;
+  text-align: center;
+  background: #FFF;
+ 
+}
+
+/*===============================*/
+/* Social icnon size and color:
+/*===============================*/
+
+.fi-social-facebook, .foundicon-linkedin, .fi-social-linkedin, .fi-social-twitter, .fi-mail, .fi-telephone {
+	font-size: 30px;
+	color: white;
+}
+
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #FFF;
+  background-color: rgba(231, 231, 231, 0);
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #6E9AB3;
+}
+
+.navbar-default {
+  background-color: #6E9AB3;
+  border-color: #FFF;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+  color: #FFF;
+}
+
+.navbar-default .navbar-brand {
+  color: #FFF;
+  font-size: x-large;
+}
+/*===============================*/
+/* Heading
+/*===============================*/
+
+.headpix {
+height:150px;
+border-color: #3f6e8c;
+border-style: solid;
+border-top-width: 30px;
+border-bottom-width: 30px;
+width:100% !important;
+}
+
+
+/*===============================*/
+/* Title, below header
+/*===============================*/
+
+
+.horse-title h2  {
+
+ margin-top: 20px;
+ color: white;
+font-size: 50px;
+
+font-family: 'Overlock SC', cursive;text-align: center;}
+
+
+/*===============================*/
+/* Quote below headline
+/*===============================*/
+
+.second-quote h3 {
+	font-family: 'Overlock', cursive;
+	color: #FFD783;
+}
+
+
+/*===============================*/
+/* Color for right sidebar
+/*===============================*/
+
+.horse-talk  h4{
+	color:#FFD783;
+}
+
+.horse-talk {
+font-size: 18px;
+}
+
+/*===============================*/
+/* The html heading selectors
+/*===============================*/
+
+h4, h3, li a {
+  color:white;
+}
+
+/*===============================*/
+/* Contact footer area 
+/*===============================*/
+
+.contactme, .contactme p{
+background: black;
+border:none;
+color:white;
+
+}
+
+/*===============================*/
+/* Main pix area (to center text under pix) 
+/*===============================*/
+
+.main-pix-area {
+/* 	text-align: center; */
+	color: #FFD783;
+}
+
+.main-pix-area p{
+	font-size:20px;
+}
+
+.jumbotron {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  color: #000;
+  background-color: #FFFBE7;
+  margin-top: 50px;
+}
+
+
+.social-media a {
+color:white;
+}
+
+/* 
+img.author-pix, img.book-pix {
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+ */
+ 
+.img-thumbnail {
+  
+ border: 0px solid #DDD; 
+
+  padding-right: 10px;
+  background-color: #FFFBE7;
+}
+
+
+blockquote {
+  border-left: 5px solid #0D3B5A;
+}
+
+
+	/* Extra Small Devices, Phones */
+	@media only screen and (max-width : 968px){
+ img.img-responsive.top-pix {
+  /* padding-top: 20px; */
+  margin-top: 30px;
+}
+	}
+ 

@@ -1,0 +1,324 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Horse Template</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+ <link href="css/custom.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="navbar-fixed-top.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    <link href='http://fonts.googleapis.com/css?family=Armata' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Overlock+SC' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Overlock' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/ico" href="img/favicon-book.ico"/>
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#"><i class="fa fa-fw fa-area-chart  "></i>Bridle Publishing</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#book">Book</a></li>
+            <li><a href="#author">Author</a></li>
+            <li><a href="#reviews">Reviews</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <!-- 
+<li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="#">Separated link</a></li>
+                <li><a href="#">One more separated link</a></li>
+              </ul>
+ -->
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="http://facebook.com"><i class="fa fa-fw fa-facebook-official  "></i></a></li>
+            <li><a href="http://twitter.com"><i class="fa fa-fw fa-twitter  "></i></a></li>
+            <li><a href="http://google.com"><i class="fa fa-fw fa-google  "></i></a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+    		<div >
+<img class= "img-responsive top-pix" src="./img//header.png">
+</div>
+
+</div> <!--container end -->
+
+<!--
+===========================
+FIRST ROW 
+===========================
+-->
+
+ <div class="container">
+	<div class="row">
+		<div class="col-md-12">
+		
+			<div class="horse-title">	
+			
+			<h2> Horse Lovers Will Love This Book!</h2>
+			 </div>
+			<hr />
+		</div>
+	</div>
+<!-- </div> -->
+<!--container end -->
+
+
+
+<!--
+=========================== 
+SECOND ROW 
+===========================
+-->
+
+	<div class="row" >
+		<div class="col-md-9 second-quote">
+			<h3> <em>"...Lance Jefferson knows horses!" - Susan Doe, <cite>Richmond Times</cite></em></h3>
+
+
+
+<!-- 
+===========================
+THIRD ROW - EMBEDDED 
+===========================
+-->	
+
+			
+
+					<div class="main-pix-area ">
+
+  						<img class= "img-responsive" src="./img/bookandauthor2.png">
+						
+
+							<p> You can get your copy of <em>Horses of The Blue Ridge</em> at: &nbsp; &nbsp; <a href="#"> <img src="./img/amazonbutton5.gif" /> </a>
+							</p>
+					</div>
+				</div>
+			
+</div>
+
+
+<!-- 
+===========================
+SAME ROW - SIDEBAR 
+===========================
+-->	
+
+
+		<div class="col-md-3 horse-talk">
+			<h4>Horse Talk!</h4>
+			<p>Vivamus malesuada turpis sit amet lectus sollicitudin varius. Donec ullamcorper libero nibh, a auctor leo feugiat eget. Suspendisse vel erat ut sapien commodo egestas ac condimentum diam.</p>
+
+			<p>Scelerisque sit amet orci. Integer lacus magna, laoreet in adipiscing eget, scelerisque sit amet libero. In egestas nisi ligula, vitae hendrerit quam elementum non. </p>
+
+			<h4>Blue Ridge Horses</h4>
+			<p>You should check out:</p>
+			<ul class="disc">
+				<li>Proin enim justo, pulvinar vitae enim vel urna. </li>
+				<li>Vivamus vitae tincidunt elit, sagittis hendrerit justo.</li>
+				<li> Vivamus malesuada turpis sit amet lectus sollicitudin varius.</li>
+			</ul>
+		</div>
+	</div>
+
+
+
+<!-- 
+===========================
+BOOK - JUMBO
+===========================
+-->	
+<hr id="book"></hr>
+<div class="row" >
+<div class="col-md-12 ">
+<div class="jumbotron">
+  <h1>About The Book</h1>
+  
+<img src="img/horse-book.jpg"  align="left" width="250px" class="book-pix img-responsive img-thumbnail">
+<p>Vivamus malesuada turpis sit amet lectus sollicitudin varius. Donec ullamcorper libero nibh, a auctor leo feugiat eget. Suspendisse vel erat ut sapien commodo egestas ac condimentum diam.</p>
+
+<p>Scelerisque sit amet orci. Integer lacus magna, laoreet in adipiscing eget, scelerisque sit amet libero. In egestas nisi ligula, vitae hendrerit quam elementum non. </p>
+
+<p>Vivamus malesuada turpis sit amet lectus sollicitudin varius. Donec ullamcorper libero nibh, a auctor leo feugiat eget. Suspendisse vel erat ut sapien commodo egestas ac condimentum diam.</p>
+
+<p>Scelerisque sit amet orci. Integer lacus magna, laoreet in adipiscing eget, scelerisque sit amet libero. In egestas nisi ligula, vitae hendrerit quam elementum non. Vivamus malesuada turpis sit amet lectus sollicitudin varius. Donec ullamcorper libero nibh, a auctor leo feugiat eget. Suspendisse vel erat ut sapien commodo egestas ac condimentum diam.Vivamus malesuada turpis sit amet lectus sollicitudin varius. Donec ullamcorper libero nibh, a auctor leo feugiat eget. Suspendisse vel erat ut sapien commodo egestas ac condimentum diam.</p>
+
+
+  <p class="text-center"> <a href="#"> <img src="./img/amazonbutton5.gif" /> </a></p>
+</div>
+</div>
+</div>
+
+
+<!-- 
+===========================
+AUTHOR - JUMBO
+===========================
+-->	
+<hr id="author"></hr>
+<div class="row">
+<div class="col-md-12 ">
+<div class="jumbotron">
+  <h1>About The Author</h1>
+  
+  <img src="http://castletv.net/wp-content/uploads/2008/06/cfimg-8155616313861485713.jpg" width="250px" class="author-pix img-responsive img-thumbnail" align="left" class="author-pix img-responsive">
+  <p>Vivamus malesuada turpis sit amet lectus sollicitudin varius. Donec ullamcorper libero nibh, a auctor leo feugiat eget. Suspendisse vel erat ut sapien commodo egestas ac condimentum diam.</p>
+
+			<p>Scelerisque sit amet orci. Integer lacus magna, laoreet in adipiscing eget, scelerisque sit amet libero. In egestas nisi ligula, vitae hendrerit quam elementum non.</p>
+
+<p>Scelerisque sit amet orci. Integer lacus magna, laoreet in adipiscing eget, scelerisque sit amet libero. In egestas nisi ligula, vitae hendrerit quam elementum non. </p>
+
+<p>Vivamus malesuada turpis sit amet lectus sollicitudin varius. Donec ullamcorper libero nibh, a auctor leo feugiat eget. Suspendisse vel erat ut sapien commodo egestas ac condimentum diam.</p>
+
+<p>Scelerisque sit amet orci. Integer lacus magna, laoreet in adipiscing eget, scelerisque sit amet libero. In egestas nisi ligula, vitae hendrerit quam elementum non. Vivamus malesuada turpis sit amet lectus sollicitudin varius. Donec ullamcorper libero nibh, a auctor leo feugiat eget. Suspendisse vel erat ut sapien commodo egestas ac condimentum diam.Vivamus malesuada turpis sit amet lectus sollicitudin varius. Donec ullamcorper libero nibh, a auctor leo feugiat eget. Suspendisse vel erat ut sapien commodo egestas ac condimentum diam.</p>
+			
+			<!-- 
+  <div class="row">
+				<div class="col-md-6 ">
+				<p>1111Scelerisque sit amet orci. Integer lacus</p>
+				</div>
+				
+				
+				
+			
+				<div class="col-md-6 ">
+				<p>22222Scelerisque sit amet orci. Integer lacus</p>
+				</div>
+				</div>
+ -->
+
+</div>
+</div>
+</div>
+
+
+
+<!-- 
+===========================
+REVIEWS - JUMBO
+===========================
+-->	
+<hr id="reviews"></hr>
+<div class="row">
+<div class="col-md-12 ">
+<div class="jumbotron">
+  <h1>Reviews</h1>
+  
+  
+  <blockquote><p>Vivamus malesuada turpis sit amet lectus sollicitudin varius. Donec ullamcorper libero nibh, a auctor leo feugiat eget. Suspendisse vel erat ut sapien commodo egestas ac condimentum diam. </p></blockquote>
+
+			 <blockquote><p>Scelerisque sit amet orci. Integer lacus magna, laoreet in adipiscing eget, scelerisque sit amet libero. In egestas nisi ligula, vitae hendrerit quam elementum non.</p></blockquote>
+
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+===========================
+CONTACT
+===========================
+-->	
+<footer>
+<hr id="contact"></hr>
+<div class="row">
+	<div class="col-md-6 ">
+	<h3>CONTACT US</h3>
+	<p>
+	Big Top Publishing <br>
+	123 Maple Street <br>
+	Road House, TX  34567<br><br>
+	Tel: (123) 345-8765
+	</p>
+	</div>
+	<div class="col-md-6 social-media ">
+	<h3>EMAIL & SOCIAL MEDIA</h3>
+	 
+	<p><br>Email: <a class="send-mail" href="mailto:someone@example.com?Subject=Hello" target="_top">xyz@abc123.com</a><br><br><br>
+	
+	Follow Us:  <a  href="#"><i class="fa fa-fw fa-facebook-official"></i> </a>
+                 <a  href="#"><i class="fa fa-fw fa-twitter"></i> </a>
+	
+	
+	
+	
+	</p>
+	</div>
+	
+  </div>
+   </div>
+</div> <!-- footer -->
+
+
+
+
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
