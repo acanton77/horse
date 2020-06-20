@@ -10,7 +10,7 @@ To use this template, choose one of the following options to get started:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-scrolling-nav/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/scrolling-nav/).
+Have a xxxx bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-scrolling-nav/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/scrolling-nav/).
 
 ## Creator
 
